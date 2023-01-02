@@ -1,6 +1,4 @@
 <script>
-// TODO: add clear all button
-// TODO: maybe, add per row sum
 const TIME_TYPE = "TIME_TYPE";
 const NUMBER_TYPE = "NUMBER_TYPE";
 
