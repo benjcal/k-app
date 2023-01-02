@@ -132,7 +132,7 @@ export default {
 
 <template>
   <div class="content">
-    <h1>Kilory's App 🧮🎉</h1>
+    <h1>Kilory's Time Tracker 🧮🎉</h1>
 
     <h3>
       Total Time:
