@@ -189,6 +189,14 @@ export default {
       <button @click="addTimeRow">Add Time Row +</button>
       <button @click="addNumberRow">Add Minutes Row +</button>
     </div>
+    <hr />
+    <p>
+      Crafted in Ohio with 💚 Feel free to
+      <a
+        href="mailto:benj.calderon+k-app@gmail.com?subject=Kilory's Time Tracker is so cool!&body=Hey, I'm loving this but I would like it do to _________ too!"
+        >Say Hi!</a
+      >
+    </p>
   </div>
 </template>
 
